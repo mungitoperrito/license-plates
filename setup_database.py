@@ -1,36 +1,7 @@
 ''' Sets up the database tables if needed. '''
-
 import sqlite3
 from sqlite3 import Error
-
-
- 
-def connect_to_db(db_file):
-    # sqlite will create a new dbase if none exists 
-    try:      
-        db_conn = sqlite3.connect(db_file)
-        return db_conn
-    except Error as e:
-        print(e)
-
-
-def execute_sql(connection, sql):
-    try:
-        cursor = connection.cursor()
-        cursor.execute(sql)
-    except Error as e:
-        print(e)
-
-        
-def insert_rows(connection, sql, values):
-    dbase_cursor = connection.cursor()   
-    try:
-        dbase_cursor.executemany(sql, values)
-    except Error as e:
-        print(e)
-    
-    connection.commit()
-
+import helpers as lph
 
 def create_trip_data_table(connection):
     create_table_sql = """ CREATE TABLE IF NOT EXISTS trip_data (
@@ -39,7 +10,7 @@ def create_trip_data_table(connection):
         total_us int default 0, total_mex int default 0, 
         total_can int default 0, total_other int default 0, 
         total_plates int default 0 ); """
-    execute_sql(connection, create_table_sql)
+    lph.execute_sql(connection, create_table_sql)
 
                                     
 def create_plates_us_table(connection):
@@ -65,7 +36,7 @@ def create_plates_us_table(connection):
         di integer default 0, gv integer default 0, gu integer default 0,
         it integer default 0, ml integer default 0, pr integer default 0,
         vi integer default 0 ); """
-    execute_sql(connection, create_table_sql)
+    lph.execute_sql(connection, create_table_sql)
     
     
 def create_plates_mex_table(connection):
@@ -82,7 +53,7 @@ def create_plates_mex_table(connection):
         slpo integer default 0, sono integer default 0, taba integer default 0,
         tlax integer default 0, tama integer default 0, vera integer default 0,
         yuca integer default 0, zaca integer default 0 ); """
-    execute_sql(connection, create_table_sql)
+    lph.execute_sql(connection, create_table_sql)
     
     
 def create_plates_can_table(connection):
@@ -93,7 +64,7 @@ def create_plates_can_table(connection):
         nsc integer default 0, nun integer default 0, ont integer default 0,
         pwi integer default 0, que integer default 0, sas integer default 0,
         yuk integer default 0 ); """
-    execute_sql(connection, create_table_sql)
+    lph.execute_sql(connection, create_table_sql)
     
     
 def create_plates_other_table(connection):
@@ -102,7 +73,7 @@ def create_plates_other_table(connection):
                                     trip_total integer default 0,
                                     other_plate integer default 0
                                     ); """
-    execute_sql(connection, create_table_sql)
+    lph.execute_sql(connection, create_table_sql)
     
     
 def create_names_us_table(connection):
@@ -111,7 +82,7 @@ def create_names_us_table(connection):
                                     short_name text NOT NULL,
                                     long_name text NOT NULL
                                     ); """
-    execute_sql(connection, create_table_sql)
+    lph.execute_sql(connection, create_table_sql)
 
     
     abreviation_key = \
@@ -137,7 +108,7 @@ def create_names_us_table(connection):
     update_sql = """INSERT INTO names_us (short_name, long_name)
                     VALUES(?, ?)"""
     
-    insert_rows(connection, update_sql, abreviation_key)
+    lph.insert_rows(connection, update_sql, abreviation_key)
 
     
 def create_names_mex_table(connection):
@@ -146,7 +117,7 @@ def create_names_mex_table(connection):
                                     short_name text NOT NULL,
                                     long_name text NOT NULL
                                     ); """
-    execute_sql(connection, create_table_sql)
+    lph.execute_sql(connection, create_table_sql)
     
     abreviation_key = \
       [("agua", "Aguascalientes"),("baja", "Baja California"),
@@ -164,7 +135,7 @@ def create_names_mex_table(connection):
     update_sql = """INSERT INTO names_mex (short_name, long_name)
                     VALUES(?, ?)"""
     
-    insert_rows(connection, update_sql, abreviation_key)
+    lph.insert_rows(connection, update_sql, abreviation_key)
 
 
 def create_names_can_table(connection):
@@ -173,7 +144,7 @@ def create_names_can_table(connection):
                                     short_name text NOT NULL,
                                     long_name text NOT NULL
                                     ); """
-    execute_sql(connection, create_table_sql)
+    lph.execute_sql(connection, create_table_sql)
     
     abreviation_key = \
       [("alb", "Alberta"),("brc", "British Columbia"),("man", "Manitoba"),
@@ -185,7 +156,7 @@ def create_names_can_table(connection):
     update_sql = """INSERT INTO names_can (short_name, long_name)
                     VALUES(?, ?)"""
     
-    insert_rows(connection, update_sql, abreviation_key)
+    lph.insert_rows(connection, update_sql, abreviation_key)
     
     
 def create_day_names_(connection):
@@ -193,7 +164,7 @@ def create_day_names_(connection):
                                     day_number integer PRIMARY KEY,
                                     day_name text NOT NULL
                                     ); """
-    execute_sql(connection, create_table_sql)
+    lph.execute_sql(connection, create_table_sql)
     
     abreviation_key = \
       [(1, "Monday"),(2, "Tuesday"),(3, "Wednesday"),(4, "Thursday"),
@@ -202,11 +173,11 @@ def create_day_names_(connection):
     update_sql = """INSERT INTO day_names (day_number, day_name)
                     VALUES(?, ?)"""
     
-    insert_rows(connection, update_sql, abreviation_key)
+    lph.insert_rows(connection, update_sql, abreviation_key)
 
 
 def initial_setup(dbase):
-    dbase_conn = connect_to_db(dbase) 
+    dbase_conn = lph.connect_to_db(dbase) 
 
     # Set up lists of plate types 
     create_plates_us_table(dbase_conn)
@@ -227,7 +198,7 @@ def initial_setup(dbase):
     
 
 if __name__ == '__main__':
-    dbase_name = "license-plates.db"   
+    dbase_name = "license_plates.db"   
     dbase = initial_setup(dbase_name)    
     dbase.close()
 
