@@ -1,0 +1,25 @@
+# date|day|start city|start st|end city|end st|distance|plates
+2018-09-02|7|SomeTown|FL|Gorad|FL|225|al,fl,ga,ia,mo,nj,ny,nc,pa,sc,tn,tx,que
+2018-09-03|1|Gorad|FL|SomeTown|FL|225|al,fl,ga,id,il,in,me,md,ms,mo,nj,ny,nc,oh,ok,pa,ri,sc,tn,ut,va,wv,wi
+2018-09-16|7|SomeTown|FL|Ciudad|FL|55|ca,ct,fl,ga,il,ms,nj,ny,nc,oh,pa,sc,tn,va,wi,
+2018-09-22|6|SomeTown|FL|Pueblo|FL|55|al,fl,ga,ks,ky,me,md,ms,nh,nj,nc,oh,ok,or,pa,sc,tx,va,wi,gv
+2018-09-22|6|Pueblo|FL|SomeTown|FL|55|al,fl,ga,ca,ok,wi,que
+2018-09-28|5|SomeTown|FL|Gorad|FL|225|al,fl,ga,az,il,in,ia,ky,la,me,ma,nj,ny,nc,oh,ok,pa,sc,tn,tx,va,wi,que
+2018-10-01|7|Gorad|FL|SomeTown|FL|225|az,ar,ct,fl,ga,il,in,me,md,mo,ne,nv,nj,nc,ok,pa,ri,sc,tn,tx,va,
+2018-10-04|3|SomeTown|FL|Stadt|FL|25|ar,fl,ga,il,in,ky,mo,ny,ok,tx
+2018-10-12|5|SomeTown|FL|Ciudad|FL|55|fl,ga,il,in,me,mi,mn,nv,nj,pa,va
+2018-11-09|5|SomeTown|FL|Gorad|FL|225|al,az,ar,ca,ct,fl,ga,il,in,ks,la,me,md,ma,mi,nj,ny,nc,ok,or,sc,tn,tx,va,wv,ont,que
+2018-11-11|7|Gorad|FL|SomeTown|FL|225|al,ak,co,fl,ga,in,la,me,mi,mo,ne,nv,nj,ny,nc,oh,ok,sc,tn,tx,va,wv,que
+2018-11-17|6|SomeTown|FL|Dorf|FL|50|fl,ky,me,md,mn,mt,que,ny,nc,or,pa,tx
+2018-11-18|7|SomeTown|FL|Stadt|FL|25|ca,fl,ga,il,in,me,ms,mo,nj,ny,oh,sc,tn,tx,va,ont,que
+2018-11-18|7|Stadt|FL|Metropolis|FL|35|de,fl,ga,in,ky,me,nj,ny,nc,oh,pa,sc,tn
+2018-11-24|6|SomeTown|FL|Dorf|FL|50|al,co,ct,dc,fl,ga,il,ma,mn,nj,ny,nc,or,pa,tn,vt,va,wa
+2018-11-30|5|SomeTown|FL|Stadt|FL|25|fl,ga,in,me,nj,nc,tn,ut,vt,va,wa,wv
+2018-12-02|7|Stadt|FL|SomeTown|FL|25|az,fl,ga,in,me,md,mi,mn,nc,tn,tx,va
+2018-12-13|4|SomeTown|FL|Ciudad|FL|55|fl,me,al,in,tn,pa,wv,sc,nj,ga,nc,ny,ok,il,que,or,ct,ma,va,md,co
+2018-12-28|5|Ciudad|FL|SomeTown|FL|55|fl,ny,in,tn,mo,me,nj,pa,il,ms,que
+2018-12-07|5|SomeTown|FL|Gorad|FL|225|fl,ga,il,in,me,nj,ny,va,pa,mn,ky,sc,nc,tx,or,tn,ar,ma,mi
+2018-12-07|6|Gorad|FL|Gorad|FL|5|di,fl,ga,ny,tx,md,nj,or,wa
+2018-12-09|7|Gorad|FL|SomeTown|FL|225|fl,ny,pa,ca,tx,oh,nc,ma,la,ga,me,ne,sc,il,az,ny,va,co,in,ok,tn,ont,or,mi,ut,ia
+2018-12-30|6|SomeTown|FL|Gorad|FL|225|fl,ny,nj,ga,de,pa,md,ct,ok,va,tx,ri,wv,oh,al,tn,mi,ma,wi,me,wa,nc,ca,sc,la,in,il,ak,que,ont
+2019-01-01|2|Gorad|FL|SomeTown|FL|225|fl,tx,il,ny,ok,va,al,la,nj,pa,ga,nc,sc,ct,ma,ca,wy,ms,me,in,wv,que,ont,man
