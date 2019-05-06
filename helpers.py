@@ -30,7 +30,13 @@ def insert_rows(connection, sql, values):
     
     connection.commit()
 
-
+def check_contents(connection, table):
+    sql = "SELECT * FROM " + table + ";"
+    results = connection.execute(sql)
+    for r in results:
+        print(r)
+    
+ 
 
 if __name__ == '__main__':
     # Connect to / create dbase
@@ -48,9 +54,7 @@ if __name__ == '__main__':
     insert_rows(test_dbase, test_sql, test_values)    
     
     # Check results
-    results = test_dbase.execute("SELECT * FROM table1;")
-    for r in results:
-        print(r)
+    check_contents(test_dbase, "table1")
     
     # Close connections    
     test_dbase.close()
