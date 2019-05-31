@@ -20,7 +20,7 @@ def create_plates_us_table(connection):
         ar integer default 0, ca integer default 0, co integer default 0,
         ct integer default 0, dc integer default 0, de integer default 0,
         fl integer default 0, ga integer default 0, hi integer default 0,
-        id integer default 0, il integer default 0, na integer default 0,
+        id integer default 0, il integer default 0, in integer default 0,
         ia integer default 0, ks integer default 0, ky integer default 0,
         la integer default 0, me integer default 0, md integer default 0,
         ma integer default 0, mi integer default 0, mn integer default 0,
