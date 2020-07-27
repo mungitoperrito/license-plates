@@ -74,3 +74,10 @@ t|2020-04-22|highland park|nj|south bound brook|nj|10|nj,ny,nc,fl,ca,ct
 t|2020-05-03|highland park|nj|millstone|nj|30|nj,ny,fl,or,ct
 t|2020-05-04|highland park|nj|somerset|nj|12|nj,ny,fl,va,tx
 t|2020-05-05|south bound brook|nj|griggstown|nj|12|nj,fl,ny,wi,va,oh
+t|2020-05-09|highland park|nj|bound brook|nj|10|tx,nj,ny,fl,pa,ct
+t|2020-05-16|highland park|nj|kingston|nj|15|nj,ny,fl,nc,md,nh,pa,ct
+t|2020-05-17|highland park|nj|bound brook|nj|10|nj,ny,fl,md,ca
+t|2020-05-22|highland park|nj|south bound brook|nj|10|nj,ny,fl,pa,tx,ma,nbr
+t|2020-05-24|highland park|nj|manville|nj|12|nj,ny,fl,tx,pa,ca,md
+t|2020-05-29|highland park|nj|north brunswick|nj|5|nj,fl,tx,ma,il,md,va,ri
+t|2020-05-31|highland park|nj|bound brook|nj|10|nj,ny,fl,pa,ct,tx,vt
