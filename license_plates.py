@@ -17,22 +17,31 @@ def initialize(database):
     return dbase
 
 
-def add_new_data(database):
-    pass
-    # Read file contents
+def add_new_data(database, lplates_file):
+    #print(f"LPF: {lplates_file}")
+    # Process lines one by one b/c a given date may have multiple entries
+    print("HOLA")
+    with open(lplates_file) as input_file:
+        for line in input_file.readline():
+            print(line)
+        # Read file contents
     # Split entries
     # Update tables
     
     
-def main(database):
+def main(database, lplates_file):
     dbase = initialize(database)
-    lph.check_contents(dbase, "names_mex")
-    add_new_data(dbase)
+    #lph.check_contents(dbase, "names_can")
+    add_new_data(dbase, lplates_file)
     dbase.close()    
 
+
+
+
 if __name__ == '__main__':
-    database_name = "license_plates.db"   
-    main(database_name)    
+    database_name = "license_plates.db"
+    license_plates_file = "license-plates-input.txt"
+    main(database_name, license_plates_file)
     
     
 
