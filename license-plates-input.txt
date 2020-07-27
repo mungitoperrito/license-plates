@@ -1,0 +1,76 @@
+#type|date|start city|start st|end city|end st|distance|plates
+m|2019-07-21|Palm Coast|FL|Gainesville|FL|80|ga,fl,tx,sc,hi
+m|2019-07-22|Palm Coast|FL|Daytona|FL|40|fl,al,oh,sc,ont,tn,ok,me,ne,co,ge,nc,pa,que,va,in,wi,nd,mi,il,md,nj
+m|2019-07-15|Miami|FL|Palm Coast|FL|300|fl,az,ca,in,va,pa,ny,nj,ok,ga,tn,ne,oh,md,ia,al,wa,ri,me,mi,or,tx,ma,nc,ks,ont,mo,il,wi,ms,la
+m|2019-07-13|Miami|FL|Miami|FL|10|mi,fl,md,ny
+m|2019-07-14|Miami|FL|Key Largo|FL|65|fl,md,mi,nj,az,la,al,ct,ny,ga,tn
+m|2018-09-02|Palm Coast|FL|Miami|FL|300|al,fl,ga,ia,mo,nj,ny,nc,pa,sc,tn,tx,que
+m|2018-09-03|Miami|FL|Palm Coast|FL|300|al,fl,ga,id,il,in,me,md,ms,mo,nj,ny,nc,oh,ok,pa,ri,sc,tn,ut,va,wv,wi
+m|2018-09-16|Palm Coast|FL|Orlando|FL|80|ca,ct,fl,ga,il,ms,nj,ny,nc,oh,pa,sc,tn,va,wi,
+m|2018-09-22|Palm Coast|FL|Jacksonville|FL|80|al,fl,ga,ks,ky,me,md,ms,nh,nj,nc,oh,ok,or,pa,sc,tx,va,wi,gv
+m|2018-09-22|Jacksonville|FL|Palm Coast|FL|80|al,fl,ga,ca,ok,wi,que
+m|2018-09-28|Palm Coast|FL|Miami|FL|300|al,fl,ga,az,il,in,ia,ky,la,me,ma,nj,ny,nc,oh,ok,pa,sc,tn,tx,va,wi,que
+m|2018-10-01|Miami|FL|Palm Coast|FL|300|az,ar,ct,fl,ga,il,in,me,md,mo,ne,nv,nj,nc,ok,pa,ri,sc,tn,tx,va,
+m|2018-10-04|Palm Coast|FL|Daytona|FL|40|ar,fl,ga,il,in,ky,mo,ny,ok,tx
+m|2018-10-12|Palm Coast|FL|Orlando|FL|80|fl,ga,il,in,me,mi,mn,nv,nj,pa,va
+m|2018-11-09|Palm Coast|FL|Miami|FL|300|al,az,ar,ca,ct,fl,ga,il,in,ks,la,me,md,ma,mi,nj,ny,nc,ok,or,sc,tn,tx,va,wv,ont,que
+m|2018-11-11|Miami|FL|Palm Coast|FL|300|al,ak,co,fl,ga,in,la,me,mi,mo,ne,nv,nj,ny,nc,oh,ok,sc,tn,tx,va,wv,que
+m|2018-11-17|Palm Coast|FL|St Augustine|FL|50|fl,ky,me,md,mn,mt,que,ny,nc,or,pa,tx
+m|2018-11-18|Palm Coast|FL|Daytona|FL|40|ca,fl,ga,il,in,me,ms,mo,nj,ny,oh,sc,tn,tx,va,ont,que
+m|2018-11-18|Daytona|FL|Flagler Beach|FL|35|de,fl,ga,in,ky,me,nj,ny,nc,oh,pa,sc,tn
+m|2018-11-24|Palm Coast|FL|St Augustine|FL|50|al,co,ct,dc,fl,ga,il,ma,mn,nj,ny,nc,or,pa,tn,vt,va,wa
+m|2018-11-30|Palm Coast|FL|Daytona|FL|40|fl,ga,in,me,nj,nc,tn,ut,vt,va,wa,wv
+m|2018-12-02|Daytona|FL|Palm Coast|FL|40|az,fl,ga,in,me,md,mi,mn,nc,tn,tx,va
+m|2018-12-13|Palm Coast|FL|Orlando|FL|80|fl,me,al,in,tn,pa,wv,sc,nj,ga,nc,ny,ok,il,que,or,ct,ma,va,md,co
+m|2018-12-28|Orlando|FL|Palm Coast|FL|80|fl,ny,in,tn,mo,me,nj,pa,il,ms,que
+m|2018-12-07|Palm Coast|FL|Miami|FL|300|fl,ga,il,in,me,nj,ny,va,pa,mn,ky,sc,nc,tx,or,tn,ar,ma,mi
+m|2018-12-07|Miami|FL|Miami|FL|10|di,fl,ga,ny,tx,md,nj,or,wa
+m|2018-12-09|Miami|FL|Palm Coast|FL|300|fl,ny,pa,ca,tx,oh,nc,ma,la,ga,me,ne,sc,il,az,ny,va,co,in,ok,tn,ont,or,mi,ut,ia
+m|2018-12-30|Palm Coast|FL|Miami|FL|300|fl,ny,nj,ga,de,pa,md,ct,ok,va,tx,ri,wv,oh,al,tn,mi,ma,wi,me,wa,nc,ca,sc,la,in,il,ak,que,ont
+m|2019-01-01|Miami|FL|Palm Coast|FL|300|fl,tx,il,ny,ok,va,al,la,nj,pa,ga,nc,sc,ct,ma,ca,wy,ms,me,in,wv,que,ont,man
+m|2019-03-09|Dunn Creek|FL|Palm Coast|FL|40|fl,ny,va,ga,nc,ar,tn,ms,ma,ca,ri,ok,al,que,ont
+m|2019-03-09|Palm Coast|FL|Dunn Creek|FL|40|fl,ny,pa,ky,vy,nc,sc,mi,ont,que
+m|2019-03-03|Miami|FL|Palm Coast|FL|300|fl,ny,nj,ct,pa,me,in,tn,ga,va,md,ma,nc,mi,sc,ri,oh,ok,al,nv,ar,que
+m|2019-03-05|Palm Coast|FL|Palm Coast|FL|10|fl,ri,tn,pa,nj,al,hi,mi,nh,la,oh,ont
+m|2019-03-15|Palm Coast|FL|Miami|FL|300|fl,nc,il,tn,ny,ct,ok,va,ma,in,me,nj,oh,pa,ne,sc,ga,md,wv,la,tx,mi,wi,al,hi,or,que,ont
+m|2019-03-17|Miami|FL|Palm Coast|FL|300|fl,nj,ct,nc,ny,pa,tn,tx,ga,il,va,al,in,me,mi,mo,de,sc,oh,ca,mn,ma,ri,ms,mt,ky,ia,md,ne,que,ont
+m|2019-03-27|Palm Coast|FL|Palm Coast|FL|10|fl,ia,va,nc,ny,oh,pa,ks,ok,ga
+m|2019-03-28|Palm Coast|FL|Palm Coast|FL|10|fl,nc,ny,nj,md,va,mo,mn,ca,tn,que
+m|2019-04-06|Miami|FL|Miami|FL|10|fl,nj,ct,mi,va,nm,ga,ny,nj,nh,pa,dc,ri,md,ont
+m|2019-04-06|Miami|FL|Miami|FL|10|fl,nj,ct,ca,me,il,pa,ny,wi,co
+m|2019-04-03|Palm Coast|FL|Flagler Beach|FL|15|fl,ga,in,pa,ny,sc,nc,de,md,que
+m|2019-04-05|Palm Coast|FL|Miami|FL|300|fl,pa,ny,nc,md,va,ga,me,il,wi,tn,al,sc,in,oh,la,ca,ks,mi,dc,nj,or,ma,ont,que,nsc
+m|2019-01-11|Palm Coast|FL|Miami|FL|300|fl,ga,nc,me,in,il,ok,pa,sc,va,ky,ny,mi,tn,al,ct,tn,oh,tx,ak,ca,nj,ia,mo,ms,que
+m|2019-01-13|Miami|FL|Palm Coast|FL|300|fl,nj,ny,md,az,sc,ga,mn,ne,me,in,ct,wa,mi,ma,ok,ar,tx,il,nh,tn,pa,va,co,nc,ca,wi,ia,wv,que,ont
+m|2019-01-05|Palm Coast|FL|Crescent Beach|FL|20|fl,ga,ky,ny,ga,oh,il
+m|2019-01-08|Palm Coast|FL|Palm Coast|FL|10|fl,id,az,mi,ny
+m|2019-03-02|Miami|FL|Everglades|FL|40|fl, az,ny,pa,ky,va,ct,or,mn,in,tx,fl,oh,ma,ca,ont,que,mo,la,wa,nj,gv
+m|2019-03-02|Everglades|FL|Key Largo|FL|60|fl,oh,nj,va,me,il,tx,ny,mi,ca,wa,wi,ont
+m|2019-01-19|Palm Coast|FL|Orlando|FL|80|fl,pa,ny,nc,mi,ca,sc,oh,me,tn,ne,al,mo,ga,ri,nj,ok,ma,id,il,nd,va,tx,que,man,ont
+m|2018-02-03|Orlando|FL|Palm Coast|FL|80|fl,ny,nc,va,tn,il,me,pa,id,az,ga,sc,la,ok,wv,ms
+m|2019-02-16|Palm Coast|FL|Daytona|FL|40|fl,sd,ny,mo,me,ky,in,ct,ma,tx,ms,oh,ga,tn,pa,md,nc
+m|2019-02-22|Palm Coast|FL|Ft Pierce|FL|65|fl,ny,nc,me,pa,in,ga,sc,va,ma,tn,mi,ca,me,ok,in,wi,oh,tx,ar,or,md,ont,que
+m|2018-02-03|Titusville|FL|Palm Coast|FL|85|fl,ca,il,in,ma,pa,tx,ia,al,ny,ga,oh,va,nm,me,nc,ky,la,mn,wi
+m|2019-03-01|Palm Coast|FL|Miami|FL|300|fl,ny,il,ga,tx,sc,me,tn,mi,wi,va,wa,nc,nj,ms,ia,pa,in,oh,md,la,az,ma,al,ok,mn,nm,que,gv
+m|2019-02-24|Ft Pierce|FL|Titusville|FL|90|fl,ny,ok,oh,ma,va,wi,wa,pa,mn,nj,ak,ga,il,nh,de,ia,tn,me,ky,sc,wv,ks,tx,in,ne,nc,mi,al,ct,ont,que
+m|2019-08-30|Palm Coast|FL|Flagler|FL|15|fl,mi,ky,me,ga,nj,al,pa,la,in,nc,az
+m|2019-08-30|Palm Coast|FL|Daytona|FL|40|mi,az,fl,in,or,in,pa,nj,va,al,sc,mn,ga,th,wv,il
+m|2019-08-30|Daytona|FL|Palm COast|FL|40|fl,ct,tx,nc,me,sc,mi,ga,tn,ca,pa,la
+m|2019-08-14|Palm Coast|FL|St Augustine|FL|50|fl,va,sd,pa,tx,al,ca,ma,ia,ny,ct,ga,me,md,mo,nj,nc,mi,oh
+m|2019-08-15|Palm Coast|FL|Flagler|FL|15|fl,ok,ny,ky,nj,ga,md,ct,co,ca,pa,tx
+m|2019-08-16|Palm Coast|FL|Palm Coast|FL|10|fl,ny,nj,ok,md,tx,mi,oh,ga,ct,nc,al,la,tn,mn
+m|2019-08-31|Palm Coast|FL|Blue Springs|FL||fl,md,wa,ne,il,va,nc,in,ky,tx,co,ma,tn,mi,nm,ca,mn,ga,oh
+m|2019-09-02|Palm Coast|FL|Palm Coast|FL|10|fl,md,ga,mo,sc,az,in,co
+m|2019-09-05|Palm Coast|FL|Daytona|FL|40|fl,ri,in,ny,va,tn,il,us,tx,ut,nc
+m|2019-09-05|Daytona|FL|Palm Coast|FL||40|fl,id,ga,me,nc,in,tn,mo,wi,ks,mn,tx,nh,nj
+t|2020-03-14|highland park|nj|englishtown|nj|17|fl,ct,nj,ca,ma,ny,ME
+t|2020-03-15|highland park|nj|bound brook|nj|10|nj,ct,md,fl,pa,nc,tx,va,ny
+t|2020-03-18|south bound brook|nj|delaware water gap|pa|60|nj,fl,ny,md,vt,pa,IN,TN,OH,va,ID,nc,ME
+t|2020-03-24|highland park|nj|south bound brook|nj|10|nj,fl,md,ny,ak
+t|2020-03-27|highland park|nj|south bound brook|nj|10|nj,ny,nc,fl,pa,ct
+t|2020-04-06|highland park|nj|manville|nj|12|nj,ny,nc,fl,ma,ct
+t|2020-04-10|highland park|nj|south bound brook|nj|10|nj,ny,nc,fl,pa,ct
+t|2020-04-22|highland park|nj|south bound brook|nj|10|nj,ny,nc,fl,ca,ct
+t|2020-05-03|highland park|nj|millstone|nj|30|nj,ny,fl,or,ct
+t|2020-05-04|highland park|nj|somerset|nj|12|nj,ny,fl,va,tx
+t|2020-05-05|south bound brook|nj|griggstown|nj|12|nj,fl,ny,wi,va,oh
