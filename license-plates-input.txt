@@ -81,3 +81,4 @@ t|2020-05-22|highland park|nj|south bound brook|nj|10|nj,ny,fl,pa,tx,ma,nbr
 t|2020-05-24|highland park|nj|manville|nj|12|nj,ny,fl,tx,pa,ca,md
 t|2020-05-29|highland park|nj|north brunswick|nj|5|nj,fl,tx,ma,il,md,va,ri
 t|2020-05-31|highland park|nj|bound brook|nj|10|nj,ny,fl,pa,ct,tx,vt
+t|2020-01-07|palm coast|fl|highland park|nj|970|fl,nj,va,wa,ny,ct,nc,ga,de,us,pa,ont,que,mi,md,ms,oh,nh,ca.tn.ky.sc,tx,wv,wi,al,ri,ma,dc,la,ME,FL,GA,TX,PA,IN,OK,QUE,MN,OH,NC,TN,AZ,MO,MS,NY,WI,NE,OR,DE,IA,KY,NY,NJ,MD,LA,TN
