@@ -90,3 +90,11 @@ m|2019-05-10|Palm Coast|FL|Palm Coast|FL|5|fl,or,pa,ga,mi,in,al
 m|2019-05-12|Palm Coast|FL|Daytona|FL|40|fl,ga,sc,nj,tx,ny,pa,tn,az,oh,de,il,nv,ky
 m|2019-05-12|Daytona|FL|Palm Coast|FL|40|fl,ga,co,brc,wa,tx,oh,mi,nc,ia,ont,va,in,pa,ct
 m|2019-05-14|Palm Coast|FL|Palm Coast|FL|5|fl,ga,ny,nj,tn
+m|2019-05-24|Palm Coast|FL|Palm Coast|FL|5|fl,ga,ny,nj,la,sc,al,nh
+m|2019-05-24|Palm Coast|FL|New Smyrna|FL|45|fl,al,me,ny,nc,sc,tn,or,wi,va,ga,ont
+m|2019-05-14|Palm Coast|FL|Matanzas|FL|15|fl,ga,ca,ok,sc,ny,md,va
+m|2019-05-18|Ocala|FL|Palm Coast|FL|90|fl,oh,mi,ny,ar,ia,nj,ct,va,ga
+m|2019-04-12|Palm Coast|FL|Palm Coast|FL|5|fl,pa,in,ne,il,ny,ct,oh,ms
+m|2019-04-11|Palm Coast|FL|Flagler|FL|15|fl,az,mi,ct,al,me,tn,ny,vt,mn
+m|2019-04-10|Palm Coast|FL|Flagler|FL|15|fl,pa,ny,tx,ma,mi,co,or,ct,tn,wi,ga,nj,ca,ms,ia,ky,sc
+m|2019-04-07|Miami|FL|Palm Coast|FL|300|fl,ca,ga,tn,nj,ct,pa,ny,tx,oh,nc,ok,ma,me,md,id,il,la,de,sc,ar,al,va,wi,mi,que,ont
