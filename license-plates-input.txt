@@ -102,3 +102,7 @@ m|2019-05-02|Palm Coast|FL|Miami|FL|300|fl,pa,nc,mi,ct,tn,ok,in,nj,ny,oh,ga,al,i
 m|2019-05-05|Miami|FL|Palm Coast|FL|300|fl,co,ma,ga,me,mo,ms,ks,tn,va,ne,pa,nc,nj,al,ok,ct,vt,oh,mi,ny,tx,sc,in,md,or,wa,nm,az,ar,que,ont,us,il
 m|2019-04-28|Palm Coast|FL|Orlando|FL|80|fl,nm,nc,tx,in,tn,pa,ny,md,mo,mi,ga,me,sc,ct,nj,ut,co,ri,ky,ont
 m|2019-04-30|Palm Coast|FL|Palm Coast|FL|5|fl,nj,ny,il,ok,tx
+m|2019-07-17|Palm Coast|FL|Palm Coast|FL|5|fl,ok,ct,ca,al,nh,nc,tx,oh,or,ny,wa,nj,pa
+m|2019-07-16|Palm Coast|FL|St Augustine|FL|50|fl,nh,tn,oh,in,az,tx,md,sc,al,ct,ky,oh,nc,mi,ny,wv,il,ga,va,nj,de,pa
+m|2019-07-19|Palm Coast|FL|Jacksonville|FL|80|fl,tx,va,ny,ma,ga,tn,nc,in,ok,md,ca,tn,ne,ks,il,ms,sc,ont,nj,us
+m|2019-07-19|Jacksonville|FL|Palm Coast|FL|80|fl,mo,ga,md,tn,va,ia,sc,nj,tx,ky,ny,il,nc,wi,ct,oh
