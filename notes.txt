@@ -3,3 +3,8 @@ NOTE:
 cygwin 64 and python 3.6 fail to print out accented characters properly
 cygwin 64 and sqlite3 are ok in the same terminal
 windows cmd console and python 3.4 are ok
+
+TODO:
+- update input to calculate days
+- update input for trucks v. cars v. unknown
+
