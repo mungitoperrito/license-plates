@@ -81,7 +81,7 @@ t|2020-05-22|highland park|nj|south bound brook|nj|10|nj,ny,fl,pa,tx,ma,nbr
 t|2020-05-24|highland park|nj|manville|nj|12|nj,ny,fl,tx,pa,ca,md
 t|2020-05-29|highland park|nj|north brunswick|nj|5|nj,fl,tx,ma,il,md,va,ri
 t|2020-05-31|highland park|nj|bound brook|nj|10|nj,ny,fl,pa,ct,tx,vt
-t|2020-01-07|palm coast|fl|highland park|nj|970|fl,nj,va,wa,ny,ct,nc,ga,de,us,pa,ont,que,mi,md,ms,oh,nh,ca.tn.ky.sc,tx,wv,wi,al,ri,ma,dc,la,ME,FL,GA,TX,PA,IN,OK,QUE,MN,OH,NC,TN,AZ,MO,MS,NY,WI,NE,OR,DE,IA,KY,NY,NJ,MD,LA,TN
+t|2020-01-07|palm coast|fl|highland park|nj|970|fl,nj,va,wa,ny,ct,nc,ga,de,us,pa,ont,que,mi,md,ms,oh,nh,ca,tn,ky,sc,tx,wv,wi,al,ri,ma,dc,la,ME,FL,GA,TX,PA,IN,OK,QUE,MN,OH,NC,TN,AZ,MO,MS,NY,WI,NE,OR,DE,IA,KY,NY,NJ,MD,LA,TN
 m|2019-04-13|Palm Coast|FL|Orlando|FL|80|fl,pa,ma,ga,sc,mt,va,md,nj,tn,nc,ny,oh,vt,ok,mi,ak,de,me,in,la,al,ct
 m|2019-05-08|Palm Coast|FL|Daytona|FL|40|fl,pa,sc,me,tx,ok,nc,tn,ny,ga
 m|2019-05-08|Daytona|FL|Palm Coast|FL|40|fl,mi,ga,wi,ia,pa,mo,que,ont,tn,ok,la,me,sc,in,ma,ri
@@ -109,4 +109,11 @@ m|2019-07-19|Jacksonville|FL|Palm Coast|FL|80|fl,mo,ga,md,tn,va,ia,sc,nj,tx,ky,n
 m|2019-08-06|Palm Coast|FL|Palm Coast|FL|5|fl,ok,in,md,tx,pa,ny,oh
 m|2019-08-07|Daytona|FL|Palm Coast|FL|40|fl,nc,me,il,nj,mi
 m|2019-08-09|Palm Coast|FL|Miami|FL|300|fl,md,sc,ks,ny,nc,il,tn,ca,wi,ct,oh,in,me,az,va,ga,mo,que,ont,tx,ok,pa,nj,wa,ms,mi
-m|2019-08-12|Miami|FL|Palm Coast|FL|300|fl,
+m|2019-08-12|Miami|FL|Palm Coast|FL|300|fl,ny,md,pa,va,il,tx,in,tn,la,me,nj,ga,nc,ok,wv,sc,az,ct,ca,ks,al,mn,ms,ma,ia,ont,de,mo,brc,mi
+m|2019-07-23|Palm Coast|FL|Daytona|FL|40|fl,in,tx,sc,ny,ca,mi,pa,ne,ont,la,tn,nc,oh,il,ga,que,id,ma,me,va,al,mo
+m|2019-07-23|Daytona|FL|Palm Coast|FL|40|fl,sc,ga,il,al,oh,wv,va,nc,tx,que,dc
+m|2019-07-05|Daytona|FL|Palm Coast|FL|40|fl,tn,il,pa,ak,nj,ga,oh,ok,ne,md,ri,ca,ct
+m|2019-07-06|Palm Coast|FL|St Augustine|FL|50|fl,ny,or,ma,me,nc,ga,nj,tx,oh,va,dc,il
+m|2019-07-06|St Augustine|FL||Palm Coast|FL50|fl,az,or,nc,sc,ma,mi,il
+m|2019-07-05|Palm Coast|FL|Daytona|FL|40|fl,sc,md,ny,nc,ca,tn,pa,az,ga,in,nj,ia,me,ky,va,ont,ok,la,md,ma,ar,ak
+m|2019-07-04|Palm Coast|FL|Ormond Beach|FL|35|fl,nnj,nc,ga,md,il,ms,us,tn,ok,ca,pa,ne,in,ar,sc
