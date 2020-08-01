@@ -118,10 +118,10 @@ m|2019-07-06|St Augustine|FL||Palm Coast|FL50|fl,az,or,nc,sc,ma,mi,il
 m|2019-07-05|Palm Coast|FL|Daytona|FL|40|fl,sc,md,ny,nc,ca,tn,pa,az,ga,in,nj,ia,me,ky,va,ont,ok,la,md,ma,ar,ak
 m|2019-07-04|Palm Coast|FL|Ormond Beach|FL|35|fl,nnj,nc,ga,md,il,ms,us,tn,ok,ca,pa,ne,in,ar,sc
 m|2019-07-11|Orlando|FL||Palm Coast|FL|80|fl,nv,pa,va,wv,sc,nc,nj,ar,ny,in,tx,ca,que,me,tn,md,il,mn,ont,ok,wi,ky,mi,or,ne,al,la
-m|2019-07-11|Palm Coast|FL|Miami|FL|300|fl,md.pa.ct.ny.ok,ca,al,va,nj,sc,mi,ga,in,me,tn,ks,mo,il,ma,nv,wi,ont,tx,oh,co,la,ky,wa,mn,vt
+m|2019-07-11|Palm Coast|FL|Miami|FL|300|fl,md,pa,ct,ny,ok,ca,al,va,nj,sc,mi,ga,in,me,tn,ks,mo,il,ma,nv,wi,ont,tx,oh,co,la,ky,wa,mn,vt
 m|2019-07-08|Palm Coast|FL|Orlando|FL|80|fl,ny,nj,me,nc,new,ok,que,in,ct,pa,wi,tx,ga,sc,ne,ms,va,ca,la,md
 m|2019-07-08|Orlando|FL|Palm Coast|FL|80|fl,tx,pa,mi,ny,md,ma,la,oh,sc,nj,va,ky,id,wv
 m|2019-07-01|Palm Coast|FL|Palm Coast|FL|5|fl,al,ct,ny,ga,mi,va,pa,nh,ca,tx,nj,ny,nc,md,ri
 m|2019-07-02|Palm Coast|FL|Palm Coast|FL|5|fl,tx,nj,va,sc,oh,tn,md,wi,ne,ga,az,ma
 m|2019-07-02|Palm Coast|FL|Flagler|FL|15|fl,va,co,md,ont,in,ma,mn,oh,ok,sc,tx,mo,ky,pa,nj,ga
-m|2019-07-02|Palm Coast|FL|Silver Springs|FL|80|fl,ny,ia.mi,il,di,ar,ga,nh.sc
+m|2019-07-02|Palm Coast|FL|Silver Springs|FL|80|fl,ny,ia,mi,il,di,ar,ga,nh,sc
