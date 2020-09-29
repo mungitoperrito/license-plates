@@ -114,7 +114,7 @@ m|2019-07-23|palm coast|fl|daytona|fl|40|fl,in,tx,sc,ny,ca,mi,pa,ne,ont,la,tn,nc
 m|2019-07-23|daytona|fl|palm coast|fl|40|fl,sc,ga,il,al,oh,wv,va,nc,tx,que,dc
 m|2019-07-05|daytona|fl|palm coast|fl|40|fl,tn,il,pa,ak,nj,ga,oh,ok,ne,md,ri,ca,ct
 m|2019-07-06|palm coast|fl|st augustine|fl|50|fl,ny,or,ma,me,nc,ga,nj,tx,oh,va,dc,il
-m|2019-07-06|st augustine|fl||palm coast|FL50|fl,az,or,nc,sc,ma,mi,il
+m|2019-07-06|st augustine|fl||palm coast|fl|50|fl,az,or,nc,sc,ma,mi,il
 m|2019-07-05|palm coast|fl|daytona|fl|40|fl,sc,md,ny,nc,ca,tn,pa,az,ga,in,nj,ia,me,ky,va,ont,ok,la,md,ma,ar,ak
 m|2019-07-04|palm coast|fl|ormond beach|fl|35|fl,nnj,nc,ga,md,il,ms,us,tn,ok,ca,pa,ne,in,ar,sc
 m|2019-07-11|orlando|fl||palm coast|fl|80|fl,nv,pa,va,wv,sc,nc,nj,ar,ny,in,tx,ca,que,me,tn,md,il,mn,ont,ok,wi,ky,mi,or,ne,al,la
@@ -132,3 +132,13 @@ m|2019-09-14|palm coast|fl|flager|fl|15|fl,co,ct,az,ky,ga,va,nm
 t|2020-07-20|highland park|nj|east brunswick|nj|10|wi,ny,nj,pa,tx,md,il
 t|2020-07-23|south bound brook|nj|trenton|nj|45|md,tx,nj,pa,NJ,de,ny,ma,PA,va,nc,ca
 t|2020-07-26|highland park|nj|south bound brook|nj|10|nj,ks,ny,ct,pa,PA,NJ
+t|2020-07-08|south bound brook|nj|woodbridge|nj|15|ME,IN,NJ,va,nj,pa,ny,TN,TX
+t|2020-07-13|highland park|nj|bound brook|nj|10|nj,nc,NY,PA
+t|2020-07-18|south bound brook|nj|highland park|nj|10|nj,NJ,il,ny,pa,tn,va,ma,wa
+t|2020-07-19|highland park|nj|bridgewater|nj|15|ny,nj,tx,mn,pa,vt,VA,NJ,md,in
+m|2019-05-25|palm coast|fl|bulow st park|fl|20|fl,md,sc,tx,va,oh,ny,tn,ga,wv,nc,ma,al,nh
+m|2019-05-26|palm coast|fl|gainesville|fl|80|ga,fa,oh,nj,ny,ca,nc,sc,tx,in
+m|2019-05-27|palm coast|fl|palm coast|fl|5|pa,fl,ar,va,ga,nj
+m|2019-05-28|palm coast|fl|palm coast|fl|5|nj,fl,ct,sc,ar,il,va
+m|2019-05-29|palm coast|fl|palm coast|fl|5|fl,mi,co,nj,va,oh,pa,nh,il,la,ga
+m|2019-05-31|palm coast|fl|flager|fl|15|fl,tx,ga,ca,nc,ont,nj,md,ct,il,ok,tn,ny
