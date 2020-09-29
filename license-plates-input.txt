@@ -125,3 +125,7 @@ m|2019-07-01|Palm Coast|FL|Palm Coast|FL|5|fl,al,ct,ny,ga,mi,va,pa,nh,ca,tx,nj,n
 m|2019-07-02|Palm Coast|FL|Palm Coast|FL|5|fl,tx,nj,va,sc,oh,tn,md,wi,ne,ga,az,ma
 m|2019-07-02|Palm Coast|FL|Flagler|FL|15|fl,va,co,md,ont,in,ma,mn,oh,ok,sc,tx,mo,ky,pa,nj,ga
 m|2019-07-02|Palm Coast|FL|Silver Springs|FL|80|fl,ny,ia,mi,il,di,ar,ga,nh,sc
+m|2019-09-06|Palm Coast|FL|Miami|FL|300|fl,tx,nc,ca,tn,sc,me,il,co,in,ga,al,ak,ok,pa,wa,id,oh,nh,de,nj,ny,va,ne
+m|2019-09-06|Miami|FL|Miami|FL|10|fl,tx,wv,al,nj
+m|2019-09-08|Miami|FL|Palm Coast|FL|300|fl,nc,ga,va,in,me,tx,oh,tn,ca,az,sc,nj,md,il,ok,wa,al,ny,ma,la,ont,ky,mn,or
+m|2019-09-14|Palm Coast|FL|Flagler|FL|15|fl,co,ct,az,ky,ga,va,nm
