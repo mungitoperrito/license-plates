@@ -142,3 +142,30 @@ m|2019-05-27|palm coast|fl|palm coast|fl|5|pa,fl,ar,va,ga,nj
 m|2019-05-28|palm coast|fl|palm coast|fl|5|nj,fl,ct,sc,ar,il,va
 m|2019-05-29|palm coast|fl|palm coast|fl|5|fl,mi,co,nj,va,oh,pa,nh,il,la,ga
 m|2019-05-31|palm coast|fl|flager|fl|15|fl,tx,ga,ca,nc,ont,nj,md,ct,il,ok,tn,ny
+m|2019-10-19|miami|fl|ft lauderdale|fl|25|fl,ny,va,tx,ma,pa,az,sc,mi,nj,il
+m|2019-07-27|nyc|ny|basking ridge|nj|60|nj pa ct ny tx ma la 
+m|2019-07-29|nyc|ny|south bound brook|nj|50|ny ct md va nj dip de vt pa ga co in tn
+m|2019-08-01|south bound brook|nj|florence|sc|600|nj ny pa va in vt me ca tn tx ct md mi que ga fl il az ne nc de dc wa ok or ont ia ms sc mo oh wv la mn ky
+
+
+2019-08-02 Florence SC - PC
+md va fl ny sc
+nc ri nj ma tn 
+ok me pa in il
+tn ga in oh ne
+id pa ca ct ont
+tx oh la wa wv
+az ont que mi ms
+de al mo 
+
+
+2019-02-09 PC to Jax 
+fl ny pa in sc
+va ga ak nj ma
+ct me or de nc
+tn md al ont
+
+2019-08-10 Miami
+fl dc la nj ny
+in tx md ct nc 
+ar tn
