@@ -3,4 +3,7 @@ TODO:
 decide on db format
 copy paper notes to input file
 process input file
+  - after [some date] upper case is truck, lowercase is cars and motorcycles
+  - there might be a couple of entries from Bike Week that are pure motorcycles
+  - there is a long running, check off for Mexico (states rather than individual plates)
 analyze input file
